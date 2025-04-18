@@ -45,9 +45,9 @@ gsap.from(".h4i", {
 
 📊 Career Stats Preview
 Competition	    Test	ODI	    T20Is
-Matches	        90	    350	    98
-Runs	        4876	10773	1617
-Highest Score	224	    183*	56
+Matches	        90	  350	    98
+Runs	          4876	10773	  1617
+Highest Score	  224	  183*	  56
 
 🏆 Key Achievements
 🏆 2007 ICC T20 World Cup Winner
